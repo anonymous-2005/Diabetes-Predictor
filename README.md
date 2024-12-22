@@ -90,7 +90,7 @@ DiabetesPrediction/
 
 ## Contact
 For further questions or improvements, feel free to reach out:
-- **Email**: developer@example.com
+- **Email**: ashutosh.g10p@gmail.com
 
 ---
 
